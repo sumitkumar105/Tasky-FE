@@ -12,6 +12,7 @@ import {
 
 const CardComponent = () => {
   return (
+    //comments added in cardcomponents
     <Container
       sx={{
         padding: "10px",
