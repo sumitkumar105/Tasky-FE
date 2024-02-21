@@ -9,13 +9,13 @@ export const sidebarData = [
     id: 1,
     title: "Home",
     icon: <HomeIcon />,
-    path: "/home",
+    path: "/",
   },
   {
     id: 2,
     title: "Notification",
     icon: <NotificationsIcon />,
-    path: "/home",
+    path: "/notification",
   },
   {
     id: 3,
@@ -27,13 +27,13 @@ export const sidebarData = [
     id: 4,
     title: "MyTask",
     icon: <AssignmentIcon />,
-    path: "/home",
+    path: "/myTask",
   },
   {
     id: 5,
     title: "CompletedTask",
     icon: <TaskAltIcon />,
-    path: "/home",
+    path: "/completedTask",
   },
 ];
 
